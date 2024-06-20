@@ -1,4 +1,5 @@
 # NumberPlate_Detection
+![Gemini_Generated_Image_5kco5j5kco5j5kco](https://github.com/RITIKSHARMAOFFICIAL/NumberPlate_Detection/assets/96929769/7faa348b-39b5-449f-bbc4-d2549e90daf7)
 
 ## Automatic Number Plate Recognition Project
 
